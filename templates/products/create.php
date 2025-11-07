@@ -13,6 +13,7 @@
     <h1>Добавить категорию</h1>
     <input type="text" name="name" placeholder="Название">
     <input type="text" name="price" placeholder="Цена">
+    <input type="text" name="characteristic" placeholder="Характеристика">
     <input type="file" name="img" placeholder="Фото">
     <select name="category_id" id="">
         <option value="">Выберите категорию</option>
